@@ -1,5 +1,4 @@
-# DMCN
-# Devil May Cry Node
+# DMCN - Devil May Cry Node
 Proyecto de estructuras de datos inspirado en Devil May Cry 5
 Estructuras de datos utilizadas:
   -Listas enlazadas (Circulares, dobles)
